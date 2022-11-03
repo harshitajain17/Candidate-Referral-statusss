@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Candidate-Referral-statusss/static/css/main.74dfbdac.css",
+    "main.js": "/Candidate-Referral-statusss/static/js/main.a861698d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Candidate-Referral-statusss/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Candidate-Referral-statusss/index.html",
+    "main.74dfbdac.css.map": "/Candidate-Referral-statusss/static/css/main.74dfbdac.css.map",
+    "main.a861698d.js.map": "/Candidate-Referral-statusss/static/js/main.a861698d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Candidate-Referral-statusss/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74dfbdac.css",
+    "static/js/main.a861698d.js"
+  ]
+}
